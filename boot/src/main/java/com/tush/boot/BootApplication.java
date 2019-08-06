@@ -1,13 +1,13 @@
-package com.boot.t.docker;
+package com.tush.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BootDockerApplication {
+public class BootApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BootDockerApplication.class, args);
+        SpringApplication.run(BootApplication.class, args);
     }
 
 }

@@ -7,7 +7,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/boot_docker/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/pom.xml" />
       </list>
     </option>
   </component>
